@@ -3,7 +3,7 @@ if SHIELD_DM_MINI_4X6_LEFT
     config ZMK_KEYBOARD_NAME
         default "Dactyl Mini 4x6(Left)"
 
-    config ZMK_SPLIT_BLE_ROLE_CENTRAL
+    config ZMK_SPLIT_ROLE_CENTRAL
         default y
 
 endif
