@@ -1,5 +1,0 @@
-config SHIELD_DM_MINI_4X6_LEFT
-  def_bool $(shields_list_contains, dm_mini_4x6_left)
-
-config SHIELD_DM_MINI_4X6_RIGHT
-  def_bool $(shields_list_contains, dm_mini_4x6_right)

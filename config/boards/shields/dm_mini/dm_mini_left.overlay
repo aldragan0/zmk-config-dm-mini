@@ -1,4 +1,4 @@
-#include "dm_mini_4x6.dtsi" // Notice that the main dtsi files are included in the overlay.
+#include "dm_mini.dtsi" // Notice that the main dtsi files are included in the overlay.
 
 &kscan0 {
     col-gpios
